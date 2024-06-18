@@ -5,7 +5,7 @@
     <h1 align="center">FASTAPI-TEMPLATE</h1>
 </p>
 <p align="center">
-    <em>HTTP error 401 for prompt `slogan`</em>
+    <em>Desarrolla rapido con FastAPI</em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/Janner-GP/FastAPI-Template.git?style=flat&color=0080ff" alt="license">
@@ -30,17 +30,12 @@
 > - [🚀 Getting Started](#-getting-started)
 >   - [⚙️ Installation](#️-installation)
 >   - [🤖 Running FastAPI-Template](#-running-FastAPI-Template)
->   - [🧪 Tests](#-tests)
-> - [🛠 Project Roadmap](#-project-roadmap)
-> - [🤝 Contributing](#-contributing)
-> - [📄 License](#-license)
-> - [👏 Acknowledgments](#-acknowledgments)
 
 ---
 
 ## 📍 Overview
 
-HTTP error 401 for prompt `overview`
+Este proyecto esta realizado para poder tener una configuracion basica e inicial para proyectos desarrollado con FASTAPI y SQLMODEL
 
 ---
 
@@ -164,24 +159,6 @@ To execute tests, run:
 pytest
 ```
 
----
-
-## 🛠 Project Roadmap
-
-- [X] `► INSERT-TASK-1`
-- [ ] `► INSERT-TASK-2`
-- [ ] `► ...`
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Here are several ways you can contribute:
-
-- **[Submit Pull Requests](https://github.com/Janner-GP/FastAPI-Template.git/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-- **[Join the Discussions](https://github.com/Janner-GP/FastAPI-Template.git/discussions)**: Share your insights, provide feedback, or ask questions.
-- **[Report Issues](https://github.com/Janner-GP/FastAPI-Template.git/issues)**: Submit bugs found or log feature requests for Fastapi-template.
-
 <details closed>
     <summary>Contributing Guidelines</summary>
 
@@ -215,12 +192,5 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 
 This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
 
----
-
-## 👏 Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
-
-[**Return**](#-quick-links)
 
 ---
